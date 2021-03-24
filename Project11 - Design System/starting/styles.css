@@ -1,0 +1,51 @@
+body{
+    width: 80%;
+    margin: 10px auto;
+}
+
+h3,
+h4,
+p {
+    text-align: center;
+}
+
+.content{
+    border: 1px solid black;
+}
+
+/* COLORS */
+.colors {
+    margin-bottom: 20px;;
+}
+
+.color1{
+    background-color: #F54C27;
+}
+
+.color2{
+    background-color: #ABF533;
+}
+
+.color3{
+    background-color: #F51B6E;
+}
+
+.color4{
+    background-color: #02F59C;
+}
+
+.color5{
+    background-color: #C50FF5;
+}
+
+.colors div,
+.text div{
+    width: 19%;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+/* TEXT  */
+.text div {
+    width: 33.3%;
+}

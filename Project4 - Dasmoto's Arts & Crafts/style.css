@@ -1,0 +1,30 @@
+body{
+    font-family: Helvitica;
+}
+h1{
+    background-image: url("./images/1.jpeg");
+    text-align: center;
+}
+h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+span{
+    font-weight: bold;
+    color: blue;
+}
+.title{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+.brushes{
+    background-color: mediumspringgreen;
+}
+.frames{
+    background-color: lightcoral;
+}
+.paint{
+    background-color:skyblue;
+}
